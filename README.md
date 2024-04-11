@@ -1,1 +1,1 @@
-### A stupid list view with virtual flow
+### A gradle multi module project for javafx
